@@ -7,6 +7,7 @@
   </Folders>
   <Files>
     <File Build="2" Shared="False">src\Create-CodeSignatureCertificate.ps1</File>
+    <File Build="2" Shared="False">src\Download-CommunityVSIDE.ps1</File>
   </Files>
   <DeployMode>Project</DeployMode>
   <PrimaryFile></PrimaryFile>
